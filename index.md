@@ -1,6 +1,6 @@
 okok
 
 
-{% include notebook path="ok.html" %}
+{% include ok.html %}
 
 inc
